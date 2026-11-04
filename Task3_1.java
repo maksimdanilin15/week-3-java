@@ -1,4 +1,4 @@
-public class Main {
+public class Task3_1 {
     public static void main(String[] args) {
         double[] arr = {1, 5, 10, 10, 0, -10};
         
