@@ -1,4 +1,4 @@
-public class Main {
+public class Task2_3 {
     public static void main(String[] args) {
         int n = 30;
         boolean[] isPrime = new boolean[n + 1];
